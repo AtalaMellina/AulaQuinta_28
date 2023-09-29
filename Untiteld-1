@@ -1,0 +1,7 @@
+
+localhost:3000?projeto=ninho&title=frontend
+localhost:3000?projeto=ninho&title=trabalho
+localhost:3000?projeto=ninho&title=negocios
+
+localhost:3000/fundacentro/trabalho
+localhost:3000/sebrae/negocios
